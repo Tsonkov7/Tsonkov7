@@ -19,9 +19,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html5,tailwind,redux,nodejs,express,mongodb,postgres,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,tailwind,redux,nodejs,express,mongodb,postgres,vscode" />
   </a>
 </p>
+
 ---
 
 ### 🧩 Projects
