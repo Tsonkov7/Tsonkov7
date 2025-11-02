@@ -43,9 +43,11 @@
   <a href="https://www.linkedin.com/in/dani-tsonkov-9946a1272/" target="_blank">
    Linkedin
   </a>
+  |
   <a href="danitsonkov7@gmail.com">
     Gmail
   </a>
+  |
   <a href="https://www.linkedin.com/in/dani-tsonkov-9946a1272/" target="_blank">
    instagram
   </a>
