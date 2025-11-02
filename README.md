@@ -17,6 +17,7 @@
 
 ### 🧰 Tech Stack
 <p align="left">
+  
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -31,13 +32,16 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,node.js,express," />
+  </a>
+</p>
 ---
 
 ### 🧩 Projects
-- 🔗 [**Portfolio Website**](#) — Personal website built with React and Tailwind CSS  
-- 📝 [**Task Manager App**](#) — Full-stack CRUD app using Node.js, Express, and MongoDB  
-- 📡 [**REST API Starter**](#) — Minimal Express API boilerplate with TypeScript  
+- 🔗 EventTickets [eventThickets](https://github.com/Tsonkov7/eventTickets)
+- 📝 To-Do List [todo](https://github.com/Tsonkov7/ToDo-list)  
 
 ---
 
@@ -50,14 +54,14 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ventss04" target="_blank">
+  <a href="[https://www.linkedin.com/in/dani-tsonkov-9946a1272/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ventss04@gmail.com">
+  <a href="danitsonkov7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐️ From [ventss04](https://github.com/ventss04)
+
