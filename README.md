@@ -39,7 +39,7 @@
 ---
 
 ### 📫 Connect with Me
-<p align="left" margin="10px">
+
   <a href="https://www.linkedin.com/in/dani-tsonkov-9946a1272/" target="_blank">
    Linkedin
   </a>
@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/dani-tsonkov-9946a1272/" target="_blank">
    instagram
   </a>
-</p>
+
 
 
 ---
